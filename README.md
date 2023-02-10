@@ -1,8 +1,10 @@
 # PDFEditor
 To compile the source code
+
 gradle clean build
 
 To run the application
+
 gradle bootRunLocal
 
 
